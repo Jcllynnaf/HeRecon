@@ -58,8 +58,8 @@ Instalasi ##
 1. ** Kloning repositori: **
 
 `` `Bash
-Git Clone <>>
-CD <HeRecon>
+git clone https://github.com/Jcllynnaf/HeRecon.git
+cd HeRecon
 `` `
 
 2. ** Instal dependensi: **
