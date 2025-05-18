@@ -59,8 +59,8 @@ HeRecon is an OSINT tool for domain reconnaissance. It can enumerate subdomains 
 1. **Clone the repository:**
 
     ```bash
-    git clone <>>
-    cd <HeRecon>
+    git clone https://github.com/Jcllynnaf/HeRecon.git
+    cd HeRecon
     ```
 
 2. **Install dependencies:**
